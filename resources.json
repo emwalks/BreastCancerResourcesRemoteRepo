@@ -1,0 +1,52 @@
+
+    {
+        "breastCancerResources":[ 
+        {
+            "title": "The Complete Guide to Breast Cancer: How to Feel Empowered and Take Control",
+            "description": "Written by a breast cancer consultant oncologist and a GP who both got breast cancer themselves, this book was a fantastic resource. I found it more uselful than all the separate pamphlets (though I read all those too!) and found myself coming back to it over and over. Easy to read and digest, lots of great advice, information, underpinned by science and clinical guidence. Can't reccommend it enough",
+            "picture": "https://images-eu.bookshop.org/images/9781785041877.jpg?height=500&v=v4-3235983ed5490ffaa516c5407fdb205b",
+            "link": "https://uk.bookshop.org/books/the-complete-guide-to-breast-cancer-how-to-feel-empowered-and-take-control/9781785041877",
+            "tags":["book"]
+        },
+
+        {
+            "title": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "description": "journalism-http-mobile",
+            "picture": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "link": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "tags":["book"]
+        },
+
+        {
+            "title": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "description": "journalism-http-mobile",
+            "picture": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "link": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "tags":[]
+        },
+
+        {
+            "title": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "description": "journalism-http-mobile",
+            "picture": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "link": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "tags":[]
+        },
+
+        {
+            "title": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "description": "journalism-http-mobile",
+            "picture": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "link": "https://open.live.bbc.co.uk/mediaselector/6/select/",
+            "tags":[]
+        }],
+
+        "aboutMe":[ 
+            {
+                "description": "Following a breast cancer diagnosis at 32, I have undergone breast conserving surgery with full axillary lymph node clearance. Prior to surgery I managed successful fertility preservation. I am undergoing chemotherapy, radiotherapy, targeted therapy and hormone therapy."
+                
+            }
+        ]
+    }
+
+    
